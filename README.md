@@ -1,3 +1,3 @@
-# showcase
+# miscellaneous stuff
 
-just a collection of code snippets
+just some code I wrote sometime
